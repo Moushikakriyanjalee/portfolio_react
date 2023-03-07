@@ -1,0 +1,32 @@
+.is-box-skills{
+    border-radius: 24px;
+    background-color: #E6E1F9;
+}
+
+.img-figma{
+    margin-top: 180px ;
+    
+}
+
+.img-C{
+    margin-top: 150PX;
+}
+
+.img-AI{
+    margin-top: 120px;
+}
+
+.is-box-projects{
+
+    border-radius: 24px;
+    background-color: #E6E1F9;
+}
+
+.title-edu{
+    Font-family: 'Playfair+Display';
+    font-weight: 700;
+    line-height: 60px;
+    color: #25282B;
+
+}
+

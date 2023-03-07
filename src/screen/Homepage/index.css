@@ -1,0 +1,60 @@
+
+.has-text-Nunito{
+    font-family: 'Nunito' !important;
+    font-size: 20px !important;
+    color: #790DE5 !important;
+    font-weight: 400px !important;
+    display: block !important;
+    text-transform: uppercase !important;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+
+}
+.has-text-Playfair_Display{
+    font-family: 'Playfair+Display' !important;
+    color: #333333 !important;
+    font-weight: 700px !important;
+    font-size: 4rem !important;
+    line-height: 120% !important;
+}
+
+.mt-my-10{
+    margin-top:10rem !important;
+}
+
+.hero-moblie-img{
+    position: absolute;
+    top: 38px;
+    width: 20rem;
+    float: right;
+    left: 5rem;
+}
+
+.hero-info{
+   font-family: 'Nunito';
+   font-weight: 100;
+   font-size: 23px;
+   line-height: 36px;
+   color: #828282;
+
+
+}
+
+.is-projects{
+   background-color: #790DE6 !important;
+   border-radius: 8px !important;
+   font-family: 'Roboto' !important;
+   font-size: 18px !important;
+   margin-right: 0.5em;
+}
+
+.is-LinkedIn{
+    border-color: #2E3135 !important;
+    font-family: 'Roboto' !important;
+    font-size: 18px !important;  
+    border-radius: 8px !important; 
+}
+
+.position-z-index-2{
+    position: relative;
+    z-index:2;
+}

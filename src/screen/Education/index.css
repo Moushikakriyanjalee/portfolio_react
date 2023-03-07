@@ -1,0 +1,21 @@
+
+.is-box-edu{
+    border-radius: 24px;
+    background-color: #E6E1F9;
+}
+
+.title-edu{
+    Font-family: 'Playfair+Display';
+    font-weight: 700;
+    line-height: 60px;
+    color: #25282B;
+
+}
+
+.is-edu{
+    font-family:'Playfair+Display';
+    font-weight: 700;
+    font-Size:16px;
+    Line-height:20px;
+
+}

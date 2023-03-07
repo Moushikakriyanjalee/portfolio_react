@@ -1,0 +1,25 @@
+
+.title-edu{
+    Font-family: 'Playfair+Display';
+    font-weight: 700;
+    line-height: 60px;
+    color: #25282B;
+}
+
+.is-box-contact{
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+.is-projects{
+    background-color: #790DE6 ;
+    border-radius: 8px  !important;
+    font-family: 'Roboto'  !important;
+    font-size: 18px  !important;
+ }
+
+.control .input {
+    background-color: #e6e1f9 !important;
+    border-radius: 8px;
+}
+

@@ -1,0 +1,59 @@
+.is-box-about{
+    background-color: #E6E1F9;
+    border-radius: 24px;
+}
+
+.About-me{
+    Font-family: 'Playfair+Display';
+    font-weight: 700;
+    height: 60px;
+    height: 150%;
+    Vertical-align: Top;
+    color: #25282B;
+}
+
+.About-info{
+    font-family: 'Nunito';
+    font-Weight:400;
+    font-Size:22px;
+    Line-height:25px;
+}
+
+.is-box-about{
+    background-color: #E6E1F9 !important;
+    border-radius: 24px !important;
+}
+
+.is-download{
+    background-color: #ABB1EE !important;
+    color: #25282B !important;
+    border-color: black !important;
+    border-radius: 24px !important; 
+    border-width: 1px !important;
+    font-family: 'Roboto' !important; 
+    font-size: 18px !important;
+    }
+
+.circle-about {
+    background-color: #ABB1EE;
+    overflow: hidden;
+    border-radius: 100%;
+    width: 27rem;
+    height: 27rem;
+    }
+    
+.circle-about-mobile {
+    background-color: #ABB1EE;
+    overflow: hidden;
+    border-radius: 100%;
+    width: 20rem;
+    height: 20rem;
+    }
+
+    .circle-about img{
+        width: 24rem;
+    }
+    
+    .circle-about-mobile img{
+        width: 24rem;
+    }

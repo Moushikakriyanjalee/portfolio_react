@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+*{
+    margin: 0%;
+}
+ 
+.has-background-color, body{
+    background-color: #cfd6f9 !important;
+}
+
+.is-color{
+    background-color: #E6E1F9 ;
+}
+
+.has-text-comforta{
+    font-family: 'Comfortaa' ;
+}
+
+.has-underline-color{
+    text-decoration-color: #790DE5 !important ;
+}

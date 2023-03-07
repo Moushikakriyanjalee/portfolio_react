@@ -1,0 +1,37 @@
+.title-projects{
+    font-family:'Playfair+Display' !important;
+    font-weight: 700 !important;
+    font-Size:40px !important;
+    Line-height:60px !important;
+}
+
+.is-box-projects{
+
+    border-radius: 24px;
+    background-color: #E6E1F9;
+}
+
+.is-download{
+    background-color: #ABB1EE !important;
+    color: #25282B !important;
+    border-color: black !important;
+    border-radius: 24px !important; 
+    border-width: 1px !important;
+    font-family: 'Roboto' !important; 
+    font-size: 18px !important;
+    }
+
+
+.project-info{
+    font-family: 'Nunito' !important;
+    font-weight: 400 !important;
+    font-size: 18px !important;
+    line-height: 27px !important;
+    
+    color: #828282;
+
+}
+.project-img{
+    width:436px;
+    Height:400px;
+}
